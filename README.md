@@ -4,8 +4,6 @@
 
 </div>
 
-<br />
-
 ## 🤟 About me
 As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master's degree inelectrical and electronic engineering from Kyungpook National University under the guidance of Professor Min-YoungKim. And I was AI research engineer at KITECH, advised by Ph.D Hong-In Won & Seung-Hyun Jeong. Currently, as an assistantresearcher in the R2AI dev part at MEGAGEN, I am researching and developing AI-based image analysis solutions.My research field is a computer vision using machine learning and deep learning. I always dream that my research canhelp many people.
 
