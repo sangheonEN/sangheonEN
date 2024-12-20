@@ -8,11 +8,13 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 💼 AI Engineer at [Megagen](https://imegagen.com/ko/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 Published 2 SCI papers
+  1. [Predicting the Heading Angle of Resin During Extrusion Using Semantic Segmentation Based on Edge-Region Focal Loss](https://ieeexplore.ieee.org/document/10569056) Date of Published: 24 June 2024
+  2. [Accurate Ship Detection Using Electro-Optical Image-Based Satellite on Enhanced Feature and Land Awareness](https://www.mdpi.com/1424-8220/22/23/9491) Date of Published: 5 December 2022
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love to research accuracy and inference latancy improvement in computer vision and speech recognition based on ML/DL
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything here jteks6@gmail.com
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
