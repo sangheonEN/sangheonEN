@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+To+sangheonEN+GITHUB)](https://git.io/typing-svg)
+<div style="width: 100%; display: flex; justify-items: center; align-items: center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=37&pause=1000&color=F7E000&center=true&vCenter=true&width=580&height=100&lines=Hello+World+This+is+sangheonEN)](https://git.io/typing-svg)
+
+</div>
+
 
 <br />
 
