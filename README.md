@@ -9,7 +9,7 @@
 
 As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master's degree inelectrical and electronic engineering from Kyungpook National University under the guidance of Professor Min-YoungKim. And I was AI research engineer at KITECH, advised by Ph.D Hong-In Won & Seung-Hyun Jeong. Currently, as an assistantresearcher in the R2AI dev part at MEGAGEN, I am researching and developing AI-based image analysis solutions.My research field is a computer vision using machine learning and deep learning. I always dream that my research canhelp many people.
 
-**About me**
+## :🤟: About me
 
 - 💼 AI Engineer at [Megagen](https://imegagen.com/ko/)
 
@@ -21,10 +21,7 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
 https://www.linkedin.com/in/%EC%83%81%ED%97%8C-%EC%9D%B4-94b455202/
 - 💬 Ask me about anything here <p align="left"><a href="https://github.com/sangheonEN" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/%EC%83%81%ED%97%8C-%EC%9D%B4-94b455202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 12px"></a></p>
 
-**Skills**
-<p align="left"><a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" style="margin-right: 12px"></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="28" style="margin-right: 12px"></a></p>
-
-**Skills**
+## :💻: Skills
 <p align="center">
   <table>
     <tr>
