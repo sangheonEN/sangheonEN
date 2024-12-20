@@ -19,7 +19,9 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
 
 - ❤️ I love to research accuracy and inference latancy improvement in computer vision and speech recognition based on ML/DL
 
-- 💬 Ask me about anything here jteks6@gmail.com
+- 💬 Ask me about anything here <p align="left"><a href="https://github.com/yobro7292" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/yogi-hariyani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://twitter.com/YogiHariyani" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.reddit.com/user/ExpressKnee7263" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 12px"></a></p>
+
+**Skills**
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
