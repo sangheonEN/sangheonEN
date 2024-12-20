@@ -14,7 +14,7 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
   2. [Accurate Ship Detection Using Electro-Optical Image-Based Satellite on Enhanced Feature and Land Awareness](https://www.mdpi.com/1424-8220/22/23/9491) Date of Published: 5 December 2022
 
 - ❤️ I love to research accuracy and inference latancy improvement in computer vision and speech recognition based on ML/DL
-https://www.linkedin.com/in/%EC%83%81%ED%97%8C-%EC%9D%B4-94b455202/
+
 - 💬 Ask me about anything here <p align="left"><a href="https://github.com/sangheonEN" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/%EC%83%81%ED%97%8C-%EC%9D%B4-94b455202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 12px"></a></p>
 
 ## 💻 Skills
