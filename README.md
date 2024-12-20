@@ -29,7 +29,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <a href="https://github.com/sangheonEN/openWakeWord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sangheonEN&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/sangheonEN/RealtimeSTT">
+<a href="[https://github.com/sangheonEN/RealtimeSTT](https://github.com/sangheonEN/RealtimeSTT)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sangheonEN&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
