@@ -26,11 +26,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 #### Top Repositories
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/sangheonEN/openWakeWord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sangheonEN&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/sangheonEN/RealtimeSTT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sangheonEN&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
