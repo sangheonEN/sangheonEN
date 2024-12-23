@@ -38,6 +38,14 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
           <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="65" height="65" />
         <br>C#
       </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="65" height="65" />
+        <br>Bash
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=arduino" alt="icon" width="65" height="65" />
+        <br>Arduino
+      </td>
     </tr>
     <tr>
       <th>Frameworks & Libraries</th>
@@ -56,6 +64,10 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=tensorflow" alt="icon" width="65" height="65" />
         <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=sklearn" alt="icon" width="65" height="65" />
+        <br>Sklearn
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="65" height="65" />
