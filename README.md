@@ -35,6 +35,10 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
         <br>C++
       </td>
       <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="65" height="65" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" height="65" />
         <br>HTML
       </td>
@@ -112,6 +116,12 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
         <br>Jupyter
       </td>
     </tr>
+    <tr>
+      <th>Cloud Service</th>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="65" height="65" />
+        <br>AWS
+      </td>
     <tr>
       <th>OS</th>
       <td align="center" width="96">
