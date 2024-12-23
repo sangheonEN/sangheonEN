@@ -127,6 +127,10 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
           <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="icon" width="65" height="65" />
         <br>Jupyter
       </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=ssh" alt="icon" width="65" height="65" />
+        <br>SSH
+      </td>
     </tr>
     <tr>
       <th>Cloud Service</th>
