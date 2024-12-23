@@ -31,28 +31,12 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
         <br>C
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="65" height="65" />
-        <br>C#
-      </td>
-      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
         <br>C++
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
-        <br>PHP
-      </td>
-      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" height="65" />
         <br>HTML
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
-        <br>CSS
       </td>
     </tr>
     <tr>
@@ -93,22 +77,6 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
         <br>MySQL
       </td>
       <td align="center" width="96">
-          <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="icon" width="65" height="65" />
-        <br>MSSQL
-      </td>
-      <td align="center" width="96">
-          <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="icon" width="65" height="65" />
-        <br>MariaDB
-      </td>
-      <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="icon" width="65" height="65" />
-        <br>Oracle
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="65" height="65" />
-        <br>Redis
-      </td>
-      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
         <br>SQLite
       </td>
@@ -122,10 +90,6 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
         <br>VSCode
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=atom" alt="icon" width="65" height="65" />
-        <br>Atom
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
