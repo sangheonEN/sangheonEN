@@ -104,6 +104,10 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
         <br>VSCode
       </td>
       <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=pycharm" alt="icon" width="65" height="65" />
+        <br>Pycharm
+      </td>
+      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
         <br>Git
       </td>
