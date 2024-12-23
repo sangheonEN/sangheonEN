@@ -58,8 +58,8 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
         <br>TensorFlow
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="65" height="65" />
-        <br>Flask
+          <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="65" height="65" />
+        <br>FastAPI
       </td>
     </tr>
     <tr>
