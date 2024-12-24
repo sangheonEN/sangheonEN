@@ -108,7 +108,7 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
         <br>Pycharm
       </td>
       <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/{sangheonEN}/{Github-User-Content}/{main}/{google_colab.png}" alt="icon" width="65" height="65" />
+          <img src="./assets/google_colab.png" alt="icon" width="65" height="65" />
         <br>GoogleColab
       </td>
       <td align="center" width="96">
