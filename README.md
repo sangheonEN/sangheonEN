@@ -94,7 +94,7 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
       </td>
     </tr>
     <tr>
-      <th>Tools & IDEs</th>
+      <th>IDEs</th>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=vim" alt="icon" width="65" height="65" />
         <br>Vim
@@ -116,16 +116,8 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
         <br>Git
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" />
         <br>VStudio
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="65" height="65" />
-        <br>Notion
       </td>
       <td align="center" width="96">
           <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="icon" width="65" height="65" />
@@ -133,10 +125,21 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
       </td>
     </tr>
     <tr>
+      <th>Tools</th>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
+        <br>GitHub
+      </td>
+    </tr>
+    <tr>
       <th>Cloud Service</th>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="65" height="65" />
         <br>AWS
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="65" height="65" />
+        <br>Notion
       </td>
     <tr>
       <th>OS</th>
