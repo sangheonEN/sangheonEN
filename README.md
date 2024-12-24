@@ -108,6 +108,10 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
         <br>Pycharm
       </td>
       <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=googlecolab" alt="icon" width="65" height="65" />
+        <br>GoogleColab
+      </td>
+      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
         <br>Git
       </td>
