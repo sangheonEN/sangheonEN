@@ -130,16 +130,16 @@ As a member of OPTOMECHATRONICS & MULTI-SCALE ROBOTICS LAB, I received a master'
           <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
         <br>GitHub
       </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="65" height="65" />
+        <br>Notion
+      </td>
     </tr>
     <tr>
       <th>Cloud Service</th>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="65" height="65" />
         <br>AWS
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="65" height="65" />
-        <br>Notion
       </td>
     <tr>
       <th>OS</th>
